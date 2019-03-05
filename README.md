@@ -1,3 +1,2 @@
 # PM
-Opnion of PM (Product Manager)
-PMについての考え
+PM(Product Manager)についての考え
